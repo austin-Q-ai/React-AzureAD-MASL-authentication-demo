@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Blog Post
 
-For a detailed guide on implementing Azure AD authentication with MSAL in a React.js application, check out our accompanying blog post: [Secure your React.Js web application with Azure AD authentication using MSAL Library](https://yourblogurl.com).
+For a detailed guide on implementing Azure AD authentication with MSAL in a React.js application, check out our accompanying blog post on dev.to: [Secure your React.Js web application with Azure AD authentication using MSAL Library](https://dev.to/qsagehint/secure-your-reactjs-web-application-with-azure-ad-authentication-using-masl-library-3cl7).
